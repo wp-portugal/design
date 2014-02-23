@@ -12,13 +12,30 @@
 	* traduções
 	* wordcamp portugal
 	* wordcamp europe [!]
+    * meetups
 * apoio
 	* fóruns
 * palheta
 
-## notícias e eventos
-* blog
+## notícias
+* actualidade
+* entrevistas
+
+## eventos (gestão)
 * meetups
+
+## montra nacional
+* sites
+* temas (GPL)
+* plugins (GPL)
+
+## formação/tutoriais
 
 ## oportunidades
 * http://oportunidades.wp-portugal.com
+
+
+Equipa
+- José Freitas – Editor, Notícias, Eventos e Montra
+– Marco Pereirinha – Montra, Eventos
+– Álvaro Góis – Editor, Tradução, whatever
