@@ -1,41 +1,46 @@
 # TOC — wordpress portugal
 
-## o wordpress
+## O wordpress
 * o que é
 * para que serve
 * tipos de utilização [exemplos e tudo mais]
 
-## a comunidade portuguesa
+## A comunidade portuguesa
 * o que é/o que fazemos
 * como participar
 * projectos
 	* traduções
+		* glossário
 	* wordcamp portugal
 	* wordcamp europe [!]
     * meetups
+    * wp-portugal.com
+    	* regras de publicação
 * apoio
 	* fóruns
+	* dúvidas frequentes
 * palheta
 
-## notícias
+## Notícias
 * actualidade
 * entrevistas
 
-## eventos (gestão)
+## Eventos (gestão)
 * meetups
 
-## montra nacional
+## Montra nacional
 * sites
 * temas (GPL)
 * plugins (GPL)
 
-## formação/tutoriais
+## Formação/tutoriais
 
-## oportunidades
+## Oportunidades
 * http://oportunidades.wp-portugal.com
 
 
-Equipa
+###Equipa
 - José Freitas – Editor, Notícias, Eventos e Montra
-– Marco Pereirinha – Montra, Eventos
-– Álvaro Góis – Editor, Tradução, whatever
+- Marco Pereirinha – Montra, Eventos
+- Álvaro Góis – Editor, Tradução, whatever
+- Pedro Carvalho – Montra, Dúvidas
