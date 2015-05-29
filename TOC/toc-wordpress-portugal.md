@@ -34,6 +34,7 @@
 * plugins (GPL)
 
 ## Formação/tutoriais
+Uma ideia pode ser pegar nos modelos a serem desenvolvidos no https://make.wordpress.org/training/ e no https://make.wordpress.org/docs/ e produzir, em simultâneo, conteúdos que possam ser usados tanto no wp-portugal.com como no pt.wordpress.org, evitando a duplicação de trabalho.
 
 ## Oportunidades
 * http://oportunidades.wp-portugal.com
